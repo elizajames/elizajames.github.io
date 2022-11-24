@@ -12,7 +12,7 @@ Published between 1965 and 1968 in Montgomery, Alabama, the _Southern Courier_ w
 
 The Jim Peppler _Southern Courier_ photos depict 530 identified individuals, 52 places, and 199 subjects, and this exhibit is composed of data visualizations that seek to make the thousands of photos more discoverable and accessible. Most visualizations will also link to the original photos at the Alabama Department of Archives and History.
 
-## Parts of the Site
+## Parts of the Project
 
 ### [Places]() 
 Explore the places where photos in the collection were taken.
