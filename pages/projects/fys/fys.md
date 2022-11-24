@@ -1,7 +1,7 @@
 ---
-title: Jim Peppler Collection
+title: First Year Seminar 100 - Digital Archives
 layout: page
-permalink: /jim_peppler.html
+permalink: /fys.html
 ---
 
 # First Year Seminar 100 - Digital Archives
