@@ -4,9 +4,10 @@ layout: page
 permalink: /reparative.html
 ---
 
-## Using Metadata as Data for Reparative Archival Description (aka the project title that was never accurate)
+* [_About the Project_](https://elizajames.github.io/reparative-about.html)
+* [_Data Analysis_](https://elizajames.github.io/reparative_analysis_intro.html)
 
-#### How will I make my labor and that of other archivists visible? How will I leave my fingerprints on the knowledge production process? _-Michelle Caswell, Dusting for Fingerprints: Introducing Feminist Standpoint Appraisal_
+## Using Metadata as Data for Reparative Archival Description (aka the project title that was never accurate)
 
 Institutional projects that seek to address problematic metadata in archival materials have become increasingly common over the past year. However, these projects are often not publicly documented, with legacy metadata changes occuring quietly without any explicit discussion or interrogation of intent, actions taken, or anticipated effect. Without transparency, these projects risk reinforcing systemic issues both old and new within archives and archival practice. Public accountability is critical to mitigate the history and present legacy of a white supremacist and classist society. 
 

@@ -14,17 +14,17 @@ The Jim Peppler _Southern Courier_ photos depict 530 identified individuals, 52 
 
 ## Parts of the Project
 
-### [Places]() 
+### [Places](https://elizajames.github.io/jim_peppler_places.html) 
 Explore the places where photos in the collection were taken.
 
-### [People]()
+### [People](https://elizajames.github.io/jim_peppler_people.html)
 Explore the people depicted in the collection.
 
-### [Subjects]()
+### [Subjects](https://elizajames.github.io/jim_peppler_subjects.html)
 Explore the subjects and events represented in the collection.
 
-### [Networks]()
+### [Networks](https://elizajames.github.io/jim_peppler_networks.html)
 Explore how people in the collection are connected.
 
-### [Teaching and Learning Resources]()
+### [Teaching and Learning Resources](https://elizajames.github.io/jim_peppler_teaching.html)
 Use these activities and resources to teach or learn more about the Jim Peppler Southern Courier Collection.
