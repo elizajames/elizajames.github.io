@@ -36,7 +36,10 @@ Each pin on the map below represents a location from which a telegram was sent. 
 
 Telegrams in this collection were primarily sent between 1861 and 1863, with a smaller number sent in 1863 and only one from 1865.
 
-<table>
+<table width="300px">
+	<col style="width:33%">
+	<col style="width:38%">
+	<col style="width:29%">
 <thead>
   <tr>
     <th>Year</th>

@@ -4,19 +4,19 @@ layout: page
 permalink: /fys.html
 ---
 
-# First Year Seminar 100 - Digital Archives
+## First Year Seminar 100 - Digital Archives
 
 The First Year Seminar (FYS) program at Marshall University is designed to teach critical thinking skills to first year university students using a disciplinary lens provided by the instructor. This iteration of FYS is focused on "digital archives" and follows an exploration of physical objects, physical archives, digital objects, digital archives, and archives that go beyond the traditional physical/digital divide. The course emphasizes student-centered discussion and hands-on activities to teach information literacy, inquiry based thinking, integrative thinking, intercultural thinking, and metacognitive thinking skills.  All activities and assignments are free to reuse under the [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license](https://creativecommons.org/licenses/by-nc/4.0/).
 
 Did you use any of this content in your course? Let the creator know how it went! Contact [Elizabeth James](mailto:elizabeth.danyel.james@gmail.com).
 
-## Course Materials 
+### Course Materials 
 
-### [Syllabus](https://elizajames.github.io/item.html?id=FYS100Syllabus)
+#### [Syllabus](https://elizajames.github.io/item.html?id=FYS100Syllabus)
 
 The [syllabus](https://elizajames.github.io/item.html?id=FYS100Syllabus)  includes readings that are mandated by the First Year Seminar program at Marshall as well as additional readings and resources included as part of the theme. Also included is a detailed weekly schedule of topics, assignments, and activities. 
 
-### Assignments
+#### Assignments
 
 [Commonplace Book Entry #1 Assignment](https://elizajames.github.io/item.html?id=CommonplaceBookEntry1)
 For this assignment, students create a small book using a pamphlet stitch and collect quotes, ephemera, and other commonplace book-appropriate material on the topic of their personal feelings and experiences in higher education.
@@ -39,7 +39,7 @@ Complementing the earlier commonplace book assignment that took the form of a ph
 [Digital Exhibit Presentation Assignment](https://elizajames.github.io/item.html?id=FinalProjectPresentation)
 Reflection is often a neglected stage of project completion for early stage undergraduate students. In this assignment, students reflect on their final project and the choices they made throughout the process of creation.
 
-### Class Activities
+#### Class Activities
 
 The below activities make use of physical and digital primary sources, finding aids, and archival collections to teach information literacy, inquiry based thinking, integrative thinking, intercultural thinking, and metacognitive thinking skills.
 
