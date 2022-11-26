@@ -4,10 +4,12 @@ layout: page
 permalink: /reparative.html
 ---
 
-* [_About the Project_](https://elizajames.github.io/reparative-about.html)
-* [_Data Analysis_](https://elizajames.github.io/reparative_analysis_intro.html)
+## Using Metadata as Data for Reparative Archival Description 
 
-## Using Metadata as Data for Reparative Archival Description (aka the project title that was never accurate)
+#### _(also known as the project title that was never accurate)_
+
+- [__About the Project__](https://elizajames.github.io/reparative-about.html)         
+- [__Data Analysis and Visualization__](https://elizajames.github.io/reparative_analysis_intro.html)
 
 Institutional projects that seek to address problematic metadata in archival materials have become increasingly common over the past year. However, these projects are often not publicly documented, with legacy metadata changes occuring quietly without any explicit discussion or interrogation of intent, actions taken, or anticipated effect. Without transparency, these projects risk reinforcing systemic issues both old and new within archives and archival practice. Public accountability is critical to mitigate the history and present legacy of a white supremacist and classist society. 
 

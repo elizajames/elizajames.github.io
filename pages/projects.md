@@ -6,6 +6,8 @@ permalink: /projects.html
 
 ## Projects
 
+This page contains more complex works than can be fully included in the [Works section](https://elizajames.github.io/browse.html). 
+
 ### 2022
 
 [Born Digital, Audiovisual, and Digitized Materials Manual for Archives & Manuscripts Collections at WVU](https://elizajames.github.io/digital-preservation-documentation/)

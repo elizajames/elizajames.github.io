@@ -6,6 +6,8 @@ permalink: /reparative_analysis_impact.html
 
 ## Impact on Archival Practice
 
+This section contains a discussion of broader implications for my institution as well as archival practice as a whole that stemmed from this project.
+
 ### Collecting Policies and Appraisal
 
 Collecting policies must prioritize areas that are underrepresented withing the archive's collections. Prioritization of particular collecting areas should not come at the expense of marginalized communities. Part of the collection policy should include the values behind an archive's collecting practices and a statement on prioritization of personhood, including safety and autonomy, of marginalized communities. This may mean not getting materials from a community that a community does not wish for you to get or providing advice to a community or community archive on how to appraise and maintain their own materials.
