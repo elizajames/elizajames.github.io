@@ -18,7 +18,7 @@ I split the original data linked above into two overlapping subsets: one which I
 
 Before I dig into analyzing any dataset, I believe it's important to get a sense what is present, especially when I'm new to working with the collections belonging to a particular institution. To do this, I chose to do a basic overview of select data in Excel, which gave me a chance to decide what data I would analyze for this portion of the project and how I would analyze that data. In doing an initial analysis as Excel, I chose to focus on the most consistently used and categorical fields that do not lend themselves to word frequency or other types of analyses. Specifically, I examined the format, date, place, creator, and collection from which each digitized item originated. Of those fields, I retained creator and collection for use with tools other than Excel. 
 
-Though I will synthesize my main takeaways from that analysis here, I expand upon the analysis on a dedicated [Excel page](https://elizajames.io/reparative_analysis_excel.html). Additionally, on that page I created initial exploratory graphs from the complete dataset to visualize the data.
+Though I will synthesize my main takeaways from that analysis here, I expand upon the analysis on a dedicated [Excel page](https://elizajames.github.io/reparative_analysis_excel.html). Additionally, on that page I created initial exploratory graphs from the complete dataset to visualize the data.
 
 The larger messages and pieces of information I took away from this specific analysis are:
 

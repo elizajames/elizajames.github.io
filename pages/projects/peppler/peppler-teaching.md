@@ -8,13 +8,13 @@ permalink: /jim_peppler_teaching.html
 
 The digitized images and accompanying detailed metadata created by the individuals at the Alabama Department of Archives and History lend themselves to use in teaching at all educational levels. This section is composed of activities or discussion prompts that can be used to teach or learn about the Jim Peppler _Southern Courier_ Collection. Specific sections include activities that are focused on fostering information, primary source, and data literacy by analyzing the photographs in conjunction with the _Southern Courier_ newspaper, analysis of metadata used to describe the images, and research and writing activities.
 
- ### Data Analysis Activity 
+### Data Analysis Activity 
 
 This activity uses the data visualizations found on the “Places”, “Subjects”, and “People” tabs of this website as well as the [Alabama Department of Archives and History’s collection of digitized images](https://digital.archives.alabama.gov/digital/collection/peppler) to encourage inquiry in students when using digital primary sources.
 
 [View a printable version of this activity.](https://elizajames.github.io/item.html?id=CollectionsAsDataFirstLook)
 
- #### Core concepts:
+#### Core concepts:
 
 __Data__ – The information we are examining. In this instance, our data is the photographs taken by Jim Peppler.
 
@@ -24,7 +24,7 @@ __Data Visualization__ – A visual representation of data, or in our case, meta
 
 __Information Literary__ – As defined by the Association of College & Research Libraries, information literacy is, “set of integrated abilities encompassing the reflective discovery of information, the understanding of how information is produced and valued and the use of information in creating new knowledge and participating ethically in communities of learning.”
 
- #### Activity:
+#### Activity:
 
 Have students examine the “Introduction” page and any or all of the visualizations on the “Places”, “Subjects”, and “People” pages of this website. Encourage them to click on areas of interest within the visualizations to view relevant photographs or search for any individuals or words they do not recognize. If desired, break students into groups and assign them a particular page or visualization and ask them to become the “five minute expert” on their page or visualization—i.e., share with the rest of the class what their page or visualization is about. Ask students if they were surprised by any of the information they saw, or if there was information they expected to see that they did not. Where did the information for their page or visualization come from? Who do they think created the information? What resources do they think the individual used? Is this person or the Alabama Department of Archives and History a reputable and reliable provider of information?
 
@@ -32,18 +32,18 @@ Then, ask students what isn’t visible on the data visualizations or on the ima
 
 If desired, you can continue to zoom out from the subject further: does the Alabama Department of Archives and History present the digitized materials in a way that is accessible to individuals other than scholars? Do you prefer the visualizations or the rows of image icons when learning about this collection? Is there another method that you might want to engage with these materials? Ask students to discuss ways in which the definition of information literacy provided above is relevant for their consumption of information through data visualizations and other digital information resources. Are there ethical issues with sharing images of individuals who may still be alive and who may not have known their image would be shared outside of The _Southern Courier_?
 
- ### Newspaper and Photograph Source Analysis and Research Activity
+### Newspaper and Photograph Source Analysis and Research Activity
 
 This set of activities uses the data visualizations found on the “Places”, “Subjects”, and “People” pages of this website, the [Alabama Department of Archives and History’s collection of digitized images](https://digital.archives.alabama.gov/digital/collection/peppler), and The _Southern Courier_ newspaper archive to encourage inquiry and connections between visual and textual data.
 
 Within the collection of 13,471 digitized photographs at the Alabama Department of Archives and History, 8,914 photos are linked directly to the relevant issue(s) of The _Southern Courier_. Of the 177 published issues of The _Southern Courier_, an incredible 103 have photos connected to them. These photos are dispersed in issues over the years 1965-1968 in the following way:
 
-| Year | Frequency |
-|------|-----------|
-| 1965 | 15        |
-| 1966 | 44        |
-| 1967 | 34        |
-| 1968 | 10        |
+| Year   | Frequency |
+|--------|-----------|
+| 1965   | 15        |
+| 1966   | 44        |
+| 1967   | 34        |
+| 1968   | 10        |
 
 Have students use the Library of Congress’ [Newspaper Analysis Tool](https://www.loc.gov/static/programs/teachers/getting-started-with-primary-sources/documents/Analyzing_Newspapers.pdf) to examine an issue of The _Southern Courier_. What news does the Courier focus on? From what perspective do the article writers write? Who do you think is reading the newspaper? Then, have students search for the title of the photo spread article in the issue they have chosen and look at the [photographs in the Jim Peppler _Southern Courier_ Collection](https://digital.archives.alabama.gov/digital/collection/peppler) critically using the Library of Congress’ [Photograph Analysis Tool](https://www.loc.gov/static/programs/teachers/getting-started-with-primary-sources/documents/Analyzing_Photographs_and_Prints.pdf). To search for photographs taken for a particular article in the [Alabama Department of Archives and History website](https://digital.archives.alabama.gov/digital/collection/peppler), type in the name of the article enclosed in quotes, such as "King in B'ham Jail: 'Small Price to Pay'". Additional activities, such as examining photographs that did not make it into the newspaper and comparing them to the photographs that did, can help expose editorial decisions made the Courier staff. Why were certain photos chosen over others? Another approach is to examine how other newspapers used articles and photographs to cover the same events, or to research what else was occurring during that time period.
 
