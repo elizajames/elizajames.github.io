@@ -4,7 +4,7 @@ layout: page
 permalink: /jim_peppler_places.html
 ---
 
-# Places in the Jim Peppler Collection
+## Places in the Jim Peppler Collection
 
 Though the _Southern Courier_ was based in Montgomery, Alabama, the news it covered and the images it used were by no means limited to that city. More than 52 distinct places are depicted from six states as well as the District of Columbia.
 

@@ -4,7 +4,7 @@ layout: page
 permalink: /jim_peppler_people.html
 ---
 
-# People in the Jim Peppler Collection
+## People in the Jim Peppler Collection
 
 The 530 distinct individuals tagged in the Jim Peppler _Southern Courier_ Collection include well-known Civil Rights activists such as Martin Luther King, Jr. and Stokely Carmichael, musicians such as Bobby Moore and Marion Sledge, many of the _Courier’s_ own staff, and even more unidentified community members.
 

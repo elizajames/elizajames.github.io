@@ -4,9 +4,9 @@ layout: page
 permalink: /jim_peppler_networks.html
 ---
 
-# Networks in the Jim Peppler Collection
+## Networks in the Jim Peppler Collection
 
-## Who is depicted with whom in the Jim Peppler _Southern Courier_ Collection?
+ ### Who is depicted with whom in the Jim Peppler _Southern Courier_ Collection?
 
 <p><img alt="Network graph of the individuals depicted in the Jim Peppler Southern Courier Collection." src="https://elizajames.github.io/old_site/images/NetworkGraph.png" style="float: left; padding-right: 25px; padding-bottom: 25px" /></p>
 
@@ -17,7 +17,7 @@ permalink: /jim_peppler_networks.html
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis.css" rel="stylesheet" type="text/css" /><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis-network.min.js"> </script>
 
-## Who appeared in photos with Martin Luther King Jr.?
+ ### Who appeared in photos with Martin Luther King Jr.?
 
 
 <!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
