@@ -61,3 +61,5 @@ permalink: /jim_peppler_networks.html
 
 <p>The Jim Peppler&nbsp;<em>Southern Courier&nbsp;</em>Collection features 488 images depicting Martin Luther King Jr. Of those 488 images, 203 identify other individuals in the photograph. This network graph identifies who appeared in photographs with Martin Luther King Jr. as well as the number of photos in which they appeared when a particular node for a person is clicked.&nbsp;The network graph displays connections between Martin Luther King Jr. and other figures both more and less well known within the Civil Rights Movement.&nbsp;</p>
 </div>
+
+[Back to project page](https://elizajames.github.io/jim_peppler.html)
